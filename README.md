@@ -1,2 +1,2 @@
 # Python
-Python - cool coding stuffs...
+Python coding fundamentals.
